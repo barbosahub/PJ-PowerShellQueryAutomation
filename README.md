@@ -13,9 +13,9 @@ Documentação completa na pasta: /PowerShell/Docs
 <p align="justify"> O Software executa a procedure informada, exporta o retorno para .csv e dispara o anexo via e-mail.
 </p>
 <p align="left">
-  <img src="https://github.com/barbosahub/PJ-PowerShellQueryAutomation/blob/main/Images/procedure.JPG" width="750" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PJ-PowerShellQueryAutomation/blob/main/Images/Query.JPG" width="750" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PJ-PowerShellQueryAutomation/blob/main/Images/mail.JPG" width="750" alt="accessibility text">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-PowerShellQueryAutomation/procedure.JPG" width="750" alt="procedure de query">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-PowerShellQueryAutomation/Query.JPG" width="750" alt="query">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-PowerShellQueryAutomation/mail.JPG" width="750" alt="email com envio">
 </p>
 
 
